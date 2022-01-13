@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "workbench.startupEditor": "none",
+    "workbench.editor.sharedViewState": true,
+    "terminal.integrated.defaultLocation": "editor",
+    "editor.minimap.enabled": false
+}
